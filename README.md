@@ -3,7 +3,7 @@ A personal project to manage orders and customers for the ice cream chain
 ### Ruti Ben David
 #### iceCreamParlorProject
 ##### Identities:
-* __iceCream__ 
+* __iceCream__ *
   Id 1
   Type 2
   Price 3
