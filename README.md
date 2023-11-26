@@ -4,7 +4,7 @@ A personal project to manage orders and customers for the ice cream chain
 #### iceCreamParlorProject
 ##### Identities:
 * __iceCream__ 
-***  Id
+@  Id
 ***  Type
 ***  Price
 Get  https://iceCreamParlorProject.co.il/iceCream (get all iceCream)
