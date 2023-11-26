@@ -5,7 +5,9 @@ A personal project to manage orders and customers for the ice cream chain
 ##### Identities:
 > __iceCream__ 
 Id
+
 Type
+
 Price
 Get  https://iceCreamParlorProject.co.il/iceCream (get all iceCream)
 Get(i)  https://iceCreamParlorProject.co.il/iceCream?id (get iceCream by id)
